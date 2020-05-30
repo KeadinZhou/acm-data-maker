@@ -424,13 +424,13 @@ int main(){
 
 运行之前数据生成代码，系统会生成一个 `_data` 目录：
 
-![](README.md.img\_before.png)
+![](https://raw.githubusercontent.com/KeadinZhou/acm-data-maker/master/README.md.img/_before.png)
 
 如果没有 `std.cpp` 也可手动复制进去（*Clion会有奇怪的bug复制不成功*）。
 
 此时只有 `*.in` 的输入数据文件，运行 `_makeout.bat`（*可能需要管理员权限*），即可生成所有对应的 `*.ans` 文件。
 
-![](README.md.img\_after.png)
+![](https://raw.githubusercontent.com/KeadinZhou/acm-data-maker/master/README.md.img/_after.png)
 
 至此，所有数据都已经生成完成。
 
