@@ -275,7 +275,7 @@ vector<string>randomVectorOfStringWithSumLimitAndEachLimit(int len,int minEach,i
 #ifndef _KEADIN_DATA_BUILDER
 #define _KEADIN_DATA_BUILDER
 
-typedef vector<int> Targs;
+typedef vector<ll> Targs;
 typedef vector<Targs> _Targs;
 
 class RandomDataBuilder{
